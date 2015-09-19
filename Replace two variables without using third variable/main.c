@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void replaceIntVariables(int* one, int* two);
+void replaceIntVariables(int* firstValue, int* secondValue);
 
 int main()
 {
