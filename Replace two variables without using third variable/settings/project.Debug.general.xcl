@@ -1,0 +1,13 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armlmiftdi.dll" 
+
+"D:\embedded_programming\Simple-examples-in-C-language\Replace two variables without using third variable\Debug\Exe\c.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armbat.dll" 
+
+--flash_loader "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\config\flashloader\TexasInstruments\FlashTC4_H6_o.board" 
+
+
+
+
